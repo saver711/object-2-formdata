@@ -14,7 +14,7 @@ npm i @ahmedhassan713/object-2-formdata
 ## Documentation
 
 ```
-import { OTF } from "npm i @ahmedhassan713/object-2-formdataobject-2-formdata"
+import { OTF } from "npm i @ahmedhassan713/object-2-formdata"
 const obj = {........}
 
 const formData = OTF(obj)
