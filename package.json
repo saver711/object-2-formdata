@@ -1,6 +1,6 @@
 {
   "name": "@ahmedhassan713/object-2-formdata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "given an object, it transforms it to formData ready to be sent to the backend",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
