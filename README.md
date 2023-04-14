@@ -2,11 +2,19 @@
 # Object 2 formData (OTF)
 
 Given an object, it transforms it to formData ready to be sent to the backend
+## Install
 
+```
+yarn add @ahmedhassan713/object-2-formdata
+```
+OR
+```
+npm i @ahmedhassan713/object-2-formdata
+```
 ## Documentation
 
 ```
-import { OTF } from "@ahmedhassan713/object-2-formdata"
+import { OTF } from "npm i @ahmedhassan713/object-2-formdataobject-2-formdata"
 const obj = {........}
 
 const formData = OTF(obj)
