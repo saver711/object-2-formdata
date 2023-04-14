@@ -6,7 +6,7 @@ Given an object, it transforms it to formData ready to be sent to the backend
 ## Documentation
 
 ```
-import { OTF } from "@saver711/object-2-formdata"
+import { OTF } from "@ahmedhassan713/object-2-formdata"
 const obj = {........}
 
 const formData = OTF(obj)

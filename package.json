@@ -1,5 +1,5 @@
 {
-  "name": "@saver711/object-2-formdata",
+  "name": "@ahmedhassan713/object-2-formdata",
   "version": "1.0.0",
   "description": "given an object, it transforms it to formData ready to be sent to the backend",
   "main": "dist/index.js",
